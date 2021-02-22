@@ -1,5 +1,5 @@
 # Calculator
-Project for a calculator.
+A calculator application.
 
 ![Calculator](screenshot.jpg)
 
