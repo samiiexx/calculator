@@ -18,5 +18,3 @@ A calculator application.
 
 ## License
 Copyright (c) 2021 Favour Samuel.
-
-For enquiries please contact me at [favour@starboxtech.com](mailto:favour@starboxtech.com).
